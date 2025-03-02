@@ -1,8 +1,9 @@
-# React + Vite
+# CGV Clone Coding (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 소개
+CGV 공식 홈페이지 React로 클론 코딩한 프로젝트입니다. 
+컴포너트 기반으로 구조화하여 재사용성을 생각해 만들었습니다. 
 
-Currently, two official plugins are available:
+### npm install 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### npm run dev
