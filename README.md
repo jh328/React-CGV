@@ -7,3 +7,7 @@ CGV 공식 홈페이지 React로 클론 코딩한 프로젝트입니다.
 ### npm install 
 
 ### npm run dev
+
+(images/preview.png)
+
+(images/preview2.png)
