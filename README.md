@@ -8,4 +8,4 @@ CGV 공식 홈페이지 React로 클론 코딩한 프로젝트입니다.
 
 ### npm run dev
 ![preview.png](public/images/preview.png)
-![미리보기](images/p![preview2.png](public/images/preview2.png)review.png)
+![preview.png](public/images/preview2.png)
